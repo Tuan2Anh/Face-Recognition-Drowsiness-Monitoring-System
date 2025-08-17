@@ -14,7 +14,7 @@ A real-time system for **facial recognition** and **drowsiness detection**, desi
 
 ---
 
-## 🛠Tech Stack  
+## Tech Stack  
 - **Python**, **TensorFlow/Keras**, **NumPy**, **OpenCV**  
 - **MTCNN**, **InceptionResnetV1**  
 - **Arduino (LED/Buzzer alerts)**  
@@ -32,7 +32,7 @@ A real-time system for **facial recognition** and **drowsiness detection**, desi
 4. Classify eye state (open/closed) with CNN model.  
 5. Trigger **LED/Buzzer alert via Arduino** if drowsiness detected or unauthorized user appears.  
 
-## 🔧 Installation & Usage  
+## Installation & Usage  
 ```bash
 # Clone repository
 git clone https://github.com/Tuan2Anh/Face-Recognition-Drowsiness-Monitoring-System.git
